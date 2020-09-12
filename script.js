@@ -34,4 +34,9 @@ const navSlide = () => {
 	 
 	}
 
+
+
+
+const oof = oof
+
 window.onload = () => navSlide();
